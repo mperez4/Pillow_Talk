@@ -1,6 +1,6 @@
 # Pillow Talk
 
-About Pillow Talk
+About Pillow Talk. Edwina to update this part
 
 ## Hardware Requirements
 
